@@ -1,1 +1,1 @@
-# listatelefonica_base
+Neste pacote serão criadas as classes de modelo.
